@@ -1,0 +1,17 @@
+Access modifiers?
+Access modifiers are some keywords in java that we can use to control the access of
+variables,methods and classes.
+There are 4 access levels  private protected default public
+there are 3 keywords that we use to control acess
+1 private
+2 protected
+3 public
+private:
+if we write private keyword with a variable or a method or a class.
+we can access that variable or method or class with in the same class.
+default:
+default is not a keyword. when we don't write any access modifiers with aa variable or
+methods or classes default access is applied.
+
+public:
+public is keyword can be accessed in the project.
